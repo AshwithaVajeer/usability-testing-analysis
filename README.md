@@ -8,6 +8,7 @@ The objective of this project is to design and test a mobile UI prototype while 
 
 # 🛠 Tool Used
 - Figma
+- Goggle form
 
 # ✨ Features
 - Interactive mobile prototype
